@@ -1,2 +1,15 @@
-[submodule "external/Newtonsoft.Json"]
-	url = https://github.com/Firwood-Software/Newtonsoft.Json
+[submodule "external\\Newtonsoft.json"]
+	path = external\\Newtonsoft.json
+	url = https://github.com/Firwood-Software/Newtonsoft.Json.git
+[submodule "external/boringssl"]
+	path = external/boringssl
+	url = https://github.com/Firwood-Software/boringssl.git
+[submodule "external/NuGet.BuildTasks"]
+	path = external/NuGet.BuildTasks
+	url = https://github.com/Firwood-Software/NuGet.BuildTasks.git
+[submodule "external/cecil"]
+	path = external/cecil
+	url = https://github.com/Firwood-Software/cecil.git
+[submodule "external/reference-assemblies"]
+	path = external/reference-assemblies
+	url = https://github.com/Firwood-Software/reference-assemblies.git
