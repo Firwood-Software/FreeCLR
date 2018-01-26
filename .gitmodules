@@ -1,0 +1,2 @@
+[submodule "external/Newtonsoft.Json"]
+	url = https://github.com/Firwood-Software/Newtonsoft.Json
